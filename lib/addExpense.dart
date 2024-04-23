@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trip_trap/calc.dart';
+import 'package:trip_tracker/calc.dart';
 
 class AddExpenseButton extends StatefulWidget {
   const AddExpenseButton({

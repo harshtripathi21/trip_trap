@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trip_trap/home.dart';
+import 'package:trip_tracker/home.dart';
 
 void main() {
   runApp(const MainApp());

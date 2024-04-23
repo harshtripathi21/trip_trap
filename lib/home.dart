@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:trip_trap/addExpense.dart';
+import 'package:trip_tracker/addExpense.dart';
 import 'calc.dart';
 
 class HomePage extends StatefulWidget {
